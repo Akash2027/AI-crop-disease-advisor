@@ -170,6 +170,4 @@ LinkedIn: www.linkedin.com/in/akash-k-bb9a20274
 
 If you found this project useful, consider giving the repository a star.
 
-Your support helps improve and maintain future AI and Computer Vision projects.
-
-```
+Your support helps improve and maintain future AI and RAG based projects.
